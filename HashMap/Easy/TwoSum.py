@@ -1,8 +1,8 @@
 '''
-Question: https://leetcode.com/problems/two-sum/
-Solution: https://leetcode.com/problems/two-sum/discuss/1821115/Java-or-Explaination-or-HashMap-or-CodersTea.com
-Time Complexity: O(n)
-Space Complexity: O(n)
+    Question: https://leetcode.com/problems/two-sum/
+    Solution: https://leetcode.com/problems/two-sum/discuss/1821115/Java-or-Explaination-or-HashMap-or-CodersTea.com
+    Time Complexity: O(n)
+    Space Complexity: O(n)
 '''
 
 def print_two_sums(numbers, target):

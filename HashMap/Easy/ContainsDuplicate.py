@@ -1,8 +1,8 @@
 '''
-Question: https://leetcode.com/problems/contains-duplicate/
-Solution: https://leetcode.com/problems/contains-duplicate/discuss/1825830/C%2B%2B-solution-using-maps-oror-Easy-to-understand-oror-Simple-solution
-Time Complexity: O(n)
-Space Complexity: O(n)
+    Question: https://leetcode.com/problems/contains-duplicate/
+    Solution: https://leetcode.com/problems/contains-duplicate/discuss/1825830/C%2B%2B-solution-using-maps-oror-Easy-to-understand-oror-Simple-solution
+    Time Complexity: O(n)
+    Space Complexity: O(n)
 '''
 
 
