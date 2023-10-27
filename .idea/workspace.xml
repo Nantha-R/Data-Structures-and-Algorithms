@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="749b86f7-2758-4b26-9cae-5823a8409e40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Medium/ MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/src/Array/Easy/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Structures-and-Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Easy/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Easy/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Easy/BestTimeToBuyAndSellStock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/ MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/MaximumSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/FindElementInRotatedSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/FindElementInRotatedSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/FindMinimumInRotatedSortedArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/FindMinimumInRotatedSortedArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/MaximumProductArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/MaximumProductArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/ProductOfArrayExceptSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Medium/TripletsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Array/Medium/TripletsSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary/Easy/FindNumberOfOccurenceOfOnesInBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Binary/Easy/FindNumberOfOccurenceOfOnesInBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binary/Easy/SumOfTwoIntegersWithoutUsingAdditionOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/Binary/Easy/SumOfTwoIntegersWithoutUsingAdditionOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMap/Easy/ContainsDuplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/HashMap/Easy/ContainsDuplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMap/Easy/TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/HashMap/Easy/TwoSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -26,27 +46,96 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="263PnL4qhZdsJIAbOoJmKoFo7kl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "zulu-11",
+    "last_opened_file_path": "/Users/n0k03ap/Projects/Data-Structures-and-Algorithms/Java/src",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "android.project.structure"
+  }
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java/src" />
+      <recent name="$PROJECT_DIR$/Arrays/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java/src" />
+      <recent name="$PROJECT_DIR$/Arrays/src" />
+      <recent name="$PROJECT_DIR$/Arrays/Easy" />
       <recent name="C:\Users\tamizh\Documents\GitHub\Data-Structures-and-Algorithms\Array" />
       <recent name="C:\Users\tamizh\Documents\GitHub\Data-Structures-and-Algorithms\Array\Java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BestTimeToBuyAndSellStock">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="9619e13b-542b-4c19-a581-ec21a6db4102" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Easy.BestTimeToBuyAndSellStock" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Medium.ContainerWithMostWater" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.Medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContainsDuplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ContainsDuplicate" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStock" />
+        <item itemvalue="Application.ContainerWithMostWater" />
       </list>
     </recent_temporary>
   </component>

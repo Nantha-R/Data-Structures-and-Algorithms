@@ -1,3 +1,5 @@
+package Binary.Easy;
+
 /*
     Question: https://leetcode.com/problems/number-of-1-bits/solutions/
     Solution: https://leetcode.com/problems/number-of-1-bits/solutions/3186879/java-easy-and-explained-solution-speed-beats-100/

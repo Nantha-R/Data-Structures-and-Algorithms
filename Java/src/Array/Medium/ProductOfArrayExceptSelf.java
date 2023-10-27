@@ -1,3 +1,5 @@
+package Array.Medium;
+
 /*
     Question: https://leetcode.com/problems/product-of-array-except-self/
     Solution: https://leetcode.com/problems/product-of-array-except-self/discuss/1597994/C%2B%2B-3-Simple-Solutions-w-Explanation-or-Prefix-and-Suffix-product-O(1)-space-approach

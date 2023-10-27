@@ -1,9 +1,19 @@
+package Array.Medium;
+
 /*
     Question: https://leetcode.com/problems/3sum/submissions/
     Solution: https://www.code-recipe.com/post/three-sum
     Time Complexity: O(n^2)
     Space Complexity: O(n)
 */
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
 
 public class TripletsSum {
 

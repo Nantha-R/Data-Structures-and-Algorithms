@@ -1,3 +1,5 @@
+package Binary.Easy;
+
 /*
     Question: https://leetcode.com/problems/sum-of-two-integers/
     Solution: https://leetcode.com/problems/sum-of-two-integers/solutions/132479/simple-explanation-on-how-to-arrive-at-the-solution/

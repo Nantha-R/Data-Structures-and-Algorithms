@@ -1,12 +1,15 @@
+package Array.Medium;
+
 /*
     Question: https://leetcode.com/problems/maximum-product-subarray/
     Solution: Modified version of Kadanes algorithm used in MaximumSubarray problem.
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
+
 import java.util.Arrays;
 
-public class Solution {
+public class MaximumProductArray {
     private static int getMaxProductArray(final int[] numbers) {
         int globalMaximum = numbers[0];
         int currentMinimum = 1;

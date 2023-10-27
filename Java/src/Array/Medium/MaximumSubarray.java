@@ -1,3 +1,5 @@
+package Array.Medium;
+
 /*
     Question: https://leetcode.com/problems/maximum-subarray/
     Solution: https://leetcode.com/problems/maximum-subarray/discuss/1830487/kandane-algo-oror-java-oror-easy-approach-oror-comments-oror-easy-understanding

@@ -1,3 +1,5 @@
+package Array.Medium;
+
 /*
     Question: https://leetcode.com/problems/container-with-most-water/
     Solution: https://www.code-recipe.com/post/container-with-most-water
